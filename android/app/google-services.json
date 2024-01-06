@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "901433022159",
+    "firebase_url": "https://taxi-app-701dc-default-rtdb.firebaseio.com",
+    "project_id": "taxi-app-701dc",
+    "storage_bucket": "taxi-app-701dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901433022159:android:176d0e04586da87f3989ba",
+        "android_client_info": {
+          "package_name": "tn.accelerant.taxiusersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVZ7k_8YGmmg69HDbggv4Ix61c8q_DQyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
